@@ -1,0 +1,44 @@
+(!) DESCRIPTION OF ABBREVIATIONS OF OUTPUT CHARACTERISTICS IN THE RESULT FILE
+
+	H - calculating points of the height [km]
+	M - calculating points of the speed
+	dt - deviation value from Standart Atmosphere
+	n2_rel - value of relative change at specified rotation speed of the HP-compressor
+	p_comp_n1 - value of air pressure increase ratio at the LP-compressor
+	t_turbine_n2_in - value of gas temperature before the HP-turbine [K]
+	q_lamb_v - relative air flow density at the inlet of the LP-compressor
+	eff_lp - adiabatic efficiency of the LP-compressor
+	gv - air flow comsuption of the engine [kg\sec]
+	p_comp_n2 - value of air pressure increase ratio at the HP-compressor
+	n1_rel - value of relative change at specified rotation speed of the LP-compressor
+	slip - value of slipping between the LP-compressor and the HP-compressor	
+	eff_hp - adiabatic efficiency of the HP-compressor
+	q_lamb_x - relative air flow density at the inlet of the HP-compressor
+	thz_n1_out_inter - stagnation temperature between the outlet of the LP-compressor and the inlet of the HP-compressor [K]
+	phz_n1_out_inter - stagnation air pressure between the outlet of the LP-compressor and the inlet of the HP-compressor [N\m^2]
+	l_n1 - specific work of compression at the LP-compressor [J\kg]
+	thz_n2_out - stagnation temperature at the outlet of the HP-compressor [K]
+	phz_n2_out - total air pressure at the outlet of the HP-compressor [N\m^2]
+	l_n2 - specific work of compression at the HP-compressor [J\kg]
+	phz_n1_out - total air pressure at the outlet of the LP-compressor [N\m^2]
+	q_lamb_k - relative air flow density at the outlet of the HP-compressor
+	c_heat_cap - value of supplied average heat capacity in the combustion chamber [J*(10^3)\kg*K]
+	q_comb_cham - value of specific amount of heat supplied to the air in the combustion chamber [J*(10^3)\kg]
+	gf - air to fuel ratio in the combustion chamber
+	p_turbine_n2_in - total gas pressure at the inlet of the HP-turbine [N\m^2]
+	l_turbine_n2 - value of specific work of the gas expansion at the HP-turbine [J\kg]
+	p_turbine_n2_out - total gas pressure after the HP-turbine [N\m^2]
+	t_turbine_n2_cooled_out - value of gas temperature mixed with cooled air after the HP-turbine [K]
+	l_turbine_n1 - value of specific work of the gas expansion at the LP-turbine [J\kg]
+	p_turbine_n1_out - total gas pressure after the LP-turbine [N\m^2]
+	t_turbine_n1_out - value of gas temperature after the LP-turbine [K]
+	p_ratio_nozzle - ratio of gas pressure decrease in the nozzle
+	c_nozzle_speed - the rate of gas speed from the nozzle without nom expansion [m\sec] 
+	thrust_specific - specific thrust of the engine [N*sec\kg]
+	thrust_relative - value of relative thrust of the engine
+	fuel_flow_spec - specific fuel consumption of the engine [kg\N*hour]
+	p_gg - value of air pressure increase ratio at the gas generator
+	fuel_flow_hour - value of fuel consumption in hour [kg\hour]
+	l_cycle - engine cycle work [J\kg]
+	intern_eff - internal efficiency of the engine
+	p_comp_sum - summary air pressure increase ratio of the engine
